@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Schnittstellen für den Austausch von Daten
 
-You can use the [editor on GitHub](https://github.com/Japhilko/Interfaces4R/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](slides/Intro.pdf))
+- [Datenimport](slides/Datenimport.md) ([pdf](slides/Datenimport.pdf) | [rcode](slides/Datenimport.R))
+- [R und Excel](slides/Rexcel.md) ([pdf](Rexcel.pdf) | [rcode](slides/Rexcel.R))
+- [Datenexport](slides/Datenexport.md) ([pdf](slides/Datenexport.pdf) | [rcode](slides/Datenexport.R)) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Präsentation von Daten - Reproducible Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Word Dokumente mit R erstellen](slides/R2word.md) ([pdf](slides/R2word.pdf))
+-	[PDF Dokumente und Präsentationen mit LaTeX, Beamer und Sweave](slides/R2pdf.md) ([pdf](slides/R2pdf.pdf))
+-	[HTML Dokumente, Präsentationen und Dashboards mit Rmarkdown](slides/Rmarkdown.md) ([pdf](slides/Rmarkdown.pdf))
+- [Notebooks](slides/Notebooks.md) zur Integration von anderen Programmiersprachen (Python,LaTeX,Julia) ([pdf](slides/Notebooks.pdf))
 
-```markdown
-Syntax highlighted code block
+Aufgabe: Bearbeiten Sie ein Notebook weiter
 
-# Header 1
-## Header 2
-### Header 3
+## Interaktive Darstellung mit Javascript und R
 
-- Bulleted
-- List
+-	[Interaktive Karten mit dem Javascript Paket leaflet](https://github.com/Japhilko/RInterfaces/blob/master/slides/leaflet.md)
+-	[Interaktive Tabellen mit DataTables](https://github.com/Japhilko/RInterfaces/blob/master/slides/DataTables.md)
+-	[R und die Javascript Data-Driven Documents (D3)](https://github.com/Japhilko/RInterfaces/blob/master/slides/D3.md)
 
-1. Numbered
-2. List
+-	[Interaktive Graphiken mit D3 und plotly](https://github.com/Japhilko/RInterfaces/blob/master/slides/plotly.md)
 
-**Bold** and _Italic_ and `Code` text
+-	[Netzwerkgraphiken mit vis.js](https://github.com/Japhilko/RInterfaces/blob/master/slides/visNetwork.md)
+-	[Das Erstellen von Ablaufdiagrammen mit mermaid](https://github.com/Japhilko/RInterfaces/blob/master/slides/mermaid.md)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Internetresourcen und Schnittstellen nutzen
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Japhilko/Interfaces4R/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-	[Import von JSON-Objekten und XML Dateien](slides/rapis.Rmd) ([pdf](slides/rapis.pdf) | [rcode](slides/rapis.pdf))
+- [Die Pakete rvest und RCurl](slides/rvest.Rmd)
+- [Webscraping](https://github.com/Japhilko/RInterfaces/blob/master/slides/Webscraping.md)
+- [Use Case - Scraping Wikipedia](slides/ScrapingWikipedia.Rmd)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Applikationen und Projektverwaltung mit Rstudio und git
+
+- [Shiny Apss](slides/)
+- [R und Git](slides/Rgit.Rmd)
+
+## Hochperfomanter Code
+
+-	[C++ Integration - Überblick über das Paket rcpp](https://github.com/Japhilko/RInterfaces/blob/master/slides/rcpp.md)
+-	Überblick über Möglichkeiten des Parallel Computings - Paket parallel
+
+## Integration von Datenbanken
+
+- [Datenbanken und R](slides/)
+-	[Integration von PostgreSQL mit dem Paket 
+RPostgreSQL](https://github.com/Japhilko/RInterfaces/blob/master/slides/RPostgreSQL.Rmd)
+-	Nutzung von MySQL mit dem Paket RMySQL
+-	[Nutzung von MongoDB in R](https://github.com/Japhilko/RInterfaces/blob/master/slides/Rmongodb.md)
+
+
+
+
