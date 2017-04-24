@@ -1,9 +1,9 @@
 ## Schnittstellen für den Austausch von Daten
 
 - [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](slides/Intro.pdf))
-- [Datenimport](slides/Datenimport.md) ([pdf](slides/Datenimport.pdf) | [rcode](slides/Datenimport.R))
-- [R und Excel](slides/Rexcel.md) ([pdf](Rexcel.pdf) | [rcode](slides/Rexcel.R))
-- [Datenexport](slides/Datenexport.md) ([pdf](slides/Datenexport.pdf) | [rcode](slides/Datenexport.R)) 
+- [Datenimport](slides/Datenimport.md) ([pdf](slides/Datenimport.pdf)  [rcode](slides/Datenimport.R))
+- [R und Excel](slides/Rexcel.md) ([pdf](Rexcel.pdf)  [rcode](slides/Rexcel.R))
+- [Datenexport](slides/Datenexport.md) ([pdf](slides/Datenexport.pdf)  [rcode](slides/Datenexport.R)) 
 
 
 ## Präsentation von Daten - Reproducible Research
