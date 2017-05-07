@@ -1,9 +1,9 @@
 ## [Schnittstellen für den Austausch von Daten](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_1.md)
 
 - [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](slides/Intro.pdf))
-- [Datenimport](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.pdf)  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.R))
-- [R und Excel](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rexcel.md) ([pdf](Rexcel.pdf)  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rexcel.R))
-- [Datenexport](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenexport.md) ([pdf](slides/Datenexport.pdf)  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenexport.R)) 
+- [Datenimport](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.R))
+- [R und Excel](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rexcel.md) ([pdf](Rexcel.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rexcel.R))
+- [Datenexport](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenexport.md) ([pdf](slides/Datenexport.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenexport.R)) 
 
 
 ## [Präsentation von Daten - Reproducible Research](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_2.md)
