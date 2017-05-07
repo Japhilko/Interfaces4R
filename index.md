@@ -8,10 +8,10 @@
 
 ## [Präsentation von Daten - Reproducible Research](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_2.md)
 
-- [Word Dokumente mit R erstellen](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2word.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2word.pdf))
--	[PDF Dokumente und Präsentationen mit LaTeX, Beamer und Sweave](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2pdf.md) ([pdf](slides/R2pdf.pdf))
--	[HTML Dokumente, Präsentationen und Dashboards mit Rmarkdown](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.pdf))
-- [Notebooks](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.md) zur Integration von anderen Programmiersprachen (Python,LaTeX,Julia) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.pdf))
+- [Word Dokumente mit R erstellen](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2word.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2word.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2word.R))
+-	[PDF Dokumente und Präsentationen mit LaTeX, Beamer und Sweave](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2pdf.md) ([pdf](slides/R2pdf.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/R2pdf.R))
+-	[HTML Dokumente, Präsentationen und Dashboards mit Rmarkdown](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.R))
+- [Notebooks](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.md) zur Integration von anderen Programmiersprachen (Python,LaTeX,Julia) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.R))
 
 Aufgabe: Bearbeiten Sie ein Notebook weiter
 
@@ -46,9 +46,9 @@ Aufgabe: Bearbeiten Sie ein Notebook weiter
 
 ## [Integration von Datenbanken](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_7.md)
 
-- [Datenbanken und R](slides/)
+- [Datenbanken und R](https://github.com/Japhilko/RInterfaces/blob/master/slides/Datenbanken.md)
 -	[Integration von PostgreSQL mit dem Paket 
-RPostgreSQL](https://github.com/Japhilko/RInterfaces/blob/master/slides/RPostgreSQL.Rmd)
+RPostgreSQL](https://github.com/Japhilko/RInterfaces/blob/master/slides/RPostgreSQL.md)
 -	Nutzung von MySQL mit dem Paket RMySQL
 -	[Nutzung von MongoDB in R](https://github.com/Japhilko/RInterfaces/blob/master/slides/Rmongodb.md)
 
