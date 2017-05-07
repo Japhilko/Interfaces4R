@@ -1,4 +1,4 @@
-## Schnittstellen für den Austausch von Daten
+## Schnittstellen für den Austausch von Daten ([Browserversion komplettes Kapitel](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_1.md))
 
 - [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](slides/Intro.pdf))
 - [Datenimport](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.pdf)  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Datenimport.R))
