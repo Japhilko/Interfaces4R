@@ -20,7 +20,7 @@ Aufgabe: [Export nach Excel](https://github.com/Japhilko/RInterfaces/blob/master
 -	[HTML Dokumente, Präsentationen und Dashboards mit Rmarkdown](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.md) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rmarkdown.R))
 - [Notebooks](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.md) zur Integration von anderen Programmiersprachen (Python,LaTeX,Julia) ([pdf](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.pdf);  [rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/Notebooks.R))
 
-Aufgabe: Bearbeiten Sie ein Notebook weiter
+Aufgabe: [Bearbeiten Sie ein Notebook weiter](https://github.com/Japhilko/RInterfaces/blob/master/tutorial/Aufgabe_Notebook.md)
 
 ## [Interaktive Darstellung mit Javascript und R](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_3.md)
 
