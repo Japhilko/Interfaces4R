@@ -36,7 +36,7 @@ Aufgabe: Bearbeiten Sie ein Notebook weiter
 
 ## [Applikationen und Projektverwaltung mit Rstudio und git](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_5.md)
 
-- [Shiny Apss](slides/)
+- [Shiny Apss](slides/shiny.md)
 - [R und Git](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rgit.Rmd)
 
 ## [Hochperfomanter Code](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_6.md)
