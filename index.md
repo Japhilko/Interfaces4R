@@ -17,12 +17,12 @@ Aufgabe: Bearbeiten Sie ein Notebook weiter
 
 ## [Interaktive Darstellung mit Javascript und R](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_3.md)
 
--	[Interaktive Karten mit dem Javascript Paket leaflet](https://github.com/Japhilko/RInterfaces/blob/master/slides/leaflet.md)
--	[Interaktive Tabellen mit DataTables](https://github.com/Japhilko/RInterfaces/blob/master/slides/DataTables.md)
--	[R und die Javascript Data-Driven Documents (D3)](https://github.com/Japhilko/RInterfaces/blob/master/slides/D3.md)
--	[Interaktive Graphiken mit D3 und plotly](https://github.com/Japhilko/RInterfaces/blob/master/slides/plotly.md)
--	[Netzwerkgraphiken mit vis.js](https://github.com/Japhilko/RInterfaces/blob/master/slides/visNetwork.md)
--	[Das Erstellen von Ablaufdiagrammen mit mermaid](https://github.com/Japhilko/RInterfaces/blob/master/slides/mermaid.md)
+-	[Interaktive Karten mit dem Javascript Paket leaflet](https://github.com/Japhilko/RInterfaces/blob/master/slides/leaflet.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/leaflet.R))
+-	[Interaktive Tabellen mit DataTables](https://github.com/Japhilko/RInterfaces/blob/master/slides/DataTables.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/DataTables.R))
+-	[R und die Javascript Data-Driven Documents (D3)](https://github.com/Japhilko/RInterfaces/blob/master/slides/D3.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/D3.R))
+-	[Interaktive Graphiken mit D3 und plotly](https://github.com/Japhilko/RInterfaces/blob/master/slides/plotly.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/plotly.R))
+-	[Netzwerkgraphiken mit vis.js](https://github.com/Japhilko/RInterfaces/blob/master/slides/visNetwork.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/visNetwork.R))
+-	[Das Erstellen von Ablaufdiagrammen mit mermaid](https://github.com/Japhilko/RInterfaces/blob/master/slides/mermaid.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/mermaid.R))
 
 
 
@@ -36,7 +36,7 @@ Aufgabe: Bearbeiten Sie ein Notebook weiter
 
 ## [Applikationen und Projektverwaltung mit Rstudio und git](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_5.md)
 
-- [Shiny Apps](slides/shiny.Rmd)
+- [Shiny Apps](https://github.com/Japhilko/RInterfaces/blob/master/slides/shiny.md)
 - [R und Git](https://github.com/Japhilko/RInterfaces/tree/master/slides/Rgit.Rmd)
 
 ## [Hochperfomanter Code](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_6.md)
