@@ -25,6 +25,9 @@ Aufgabe: [Bearbeiten Sie ein Notebook weiter](https://github.com/Japhilko/RInter
 ## [Interaktive Darstellung mit Javascript und R](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_3.md)
 
 -	[Interaktive Karten mit dem Javascript Paket leaflet](https://github.com/Japhilko/RInterfaces/blob/master/slides/leaflet.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/leaflet.R))
+
+Aufgabe: [Eine interaktive Karte erzeugen](https://github.com/Japhilko/RInterfaces/blob/master/tutorial/Aufgabe_leaflet.Rmd)
+
 -	[Interaktive Tabellen mit DataTables](https://github.com/Japhilko/RInterfaces/blob/master/slides/DataTables.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/DataTables.R))
 -	[R und die Javascript Data-Driven Documents (D3)](https://github.com/Japhilko/RInterfaces/blob/master/slides/D3.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/D3.R))
 -	[Interaktive Graphiken mit D3 und plotly](https://github.com/Japhilko/RInterfaces/blob/master/slides/plotly.md) ([rcode](https://github.com/Japhilko/RInterfaces/tree/master/slides/plotly.R))
