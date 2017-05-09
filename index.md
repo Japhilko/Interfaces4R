@@ -1,6 +1,7 @@
-## [Schnittstellen für den Austausch von Daten](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_1.md)
+## [Schnittstellen für den Austausch von Daten](https://github.com/Japhilko/RInterfaces/blob/master/slides/RInterfaces_all2g_1.md) ([pdf]()
 
-- [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](slides/Intro.pdf))
+
+- [Einführung und Motivation](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.Rmd) ([pdf](https://github.com/Japhilko/RInterfaces/blob/master/slides/Intro.pdf))
 
 Aufgabe: [Zusatzpakete](https://github.com/Japhilko/RInterfaces/blob/master/tutorial/Aufgabe_Zusatzpakete.md)
 
